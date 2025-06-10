@@ -1,7 +1,7 @@
-import GameDashboard from "@/components/GameDashboard";
+import GameClubApp from "@/components/GameClubApp";
 
 const Index = () => {
-  return <GameDashboard />;
+  return <GameClubApp />;
 };
 
 export default Index;
